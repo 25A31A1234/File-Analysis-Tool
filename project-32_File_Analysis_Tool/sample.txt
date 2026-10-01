@@ -1,0 +1,33 @@
+File Analysis Tool Test File
+
+This is a sample text file used for testing a file analysis application.
+The tool should be able to count words, lines, characters, and other statistics.
+
+Some lines are short.
+Some lines are significantly longer and contain multiple words, punctuation marks, and various symbols.
+
+Numbers:
+12345
+67890
+3.14159
+
+Special Characters:
+! @ # $ % ^ & * ( ) _ + - = [ ] { } ; : ' " , . < > / ?
+
+Programming Languages:
+Java
+JavaScript
+Python
+C++
+Go
+Rust
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Blank lines follow:
+
+
+
+End of file.
